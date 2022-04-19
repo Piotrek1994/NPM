@@ -9,4 +9,4 @@ function sassCompiler(done) {
     done()
 }
 
-exports.sassCompiler = sassCompiler
+exports.default = sassCompiler
